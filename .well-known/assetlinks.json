@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.cuevasbladimir783_ai.twa",
+        "sha256_cert_fingerprints": ["8B:2E:2B:8E:55:6F:6F:C4:19:1B:72:E6:A0:1A:F3:34:E5:9D:CE:2E:93:CB:45:EF:04:88:E8:73:24:20:99:E2"]
+      }
+    }]
